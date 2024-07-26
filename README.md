@@ -1,2 +1,11 @@
 # dnn_scratch
-a exercise after Andrew Ng's course about DNN's
+An from scratch image processing model implementation for binary classification problems.
+
+Optimization technics I implemented:
+-Mini-batch gradient descent
+-He initialization
+-Learning rate decay
+
+
+to be implemented:
+-Adam algorithm
