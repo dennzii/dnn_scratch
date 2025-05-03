@@ -1,5 +1,5 @@
 # dnn_scratch
-A from scratch image processing model implementation for binary classification problems.
+A from scratch numpy object detection  model implementation for binary classification problems.
 
 Optimization technics I implemented:
 - Mini-batch gradient descent
