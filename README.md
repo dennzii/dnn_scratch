@@ -8,4 +8,4 @@ Optimization technics I implemented:
 
 
 to be implemented:
-- Adam algorithm
+- Adam convergence algorithm
